@@ -33,7 +33,7 @@
 		
 		<tr>
 			<td colspan="5">
-				<input type="button" onclick="${contextPath}/board/addBoard" value="글쓰기">
+				<input type="button" onclick="location.href='${contextPath}/board/addBoard'" value="글쓰기">
 			</td>
 		</tr>
 		
